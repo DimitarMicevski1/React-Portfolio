@@ -1,7 +1,7 @@
 # My React Portfolio
 
 - This is a project that i am still working on. It needs just a little bit of touch and it will be fully finished.
-- dmport.netlify.app
+- Link to portfolio: dmport.netlify.app
 
 ![1](https://user-images.githubusercontent.com/80228853/158693128-7289e7ed-c412-481b-89a3-3d11e9b4f847.png)
 ![2](https://user-images.githubusercontent.com/80228853/158693154-d250f09e-6de1-42df-9afc-77fa7d124158.png)
