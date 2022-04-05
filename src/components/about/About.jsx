@@ -38,8 +38,11 @@ const About = () => {
           </div>
           
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae numquam eum corrupti modi, 
-            eligendi rem dignissimos nam nihil harum sit earum nesciunt culpa eius assumenda eos reiciendis molestias, iste doloremque?
+            An organised, driven, hardworking student with a passion for 
+            computers and IT. A highly approachable, positive individual with 
+            good communication skills as well as the ability to lead, make 
+            critical decisions and work to tight deadlines. Seeking to pursue 
+            every avenue to achieve a career in IT.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
